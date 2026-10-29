@@ -1,0 +1,9 @@
+# ROMs and generated build outputs
+*.sfc
+*.smc
+*.srm
+*.state
+*.log
+__pycache__/
+/output/
+/smk-link-build/

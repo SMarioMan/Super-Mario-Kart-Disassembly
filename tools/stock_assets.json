@@ -1,0 +1,278 @@
+[
+  {
+    "path": "Tilemaps/Tilemap_TimerAndItemBox.lz5",
+    "offset": 70392,
+    "length": 1038,
+    "sha256": "3d19e12170cf9da8a686afba9c3c502d3286bd94eae0b42aee1283e777c5a98c"
+  },
+  {
+    "path": "Tilemaps/Tilemap_MarioCircuitBGs.lz5",
+    "offset": 133446,
+    "length": 489,
+    "sha256": "777ec02c19be6d18fd00d648ce124324f4b3d2da4284cb2107cee2aebd00eaea"
+  },
+  {
+    "path": "Tilemaps/Tilemap_GhostValleyBGs.lz5",
+    "offset": 133940,
+    "length": 447,
+    "sha256": "104a3769fa4fdb851bea148633849eb98d2b07c9c337016853b8e6b9377c0095"
+  },
+  {
+    "path": "Tilemaps/Tilemap_DonutPlainsBGs.lz5",
+    "offset": 134387,
+    "length": 402,
+    "sha256": "95adae338123a58b9185222531bb05f0db0f381591f3fbdf82b0ecd94cdf4dc7"
+  },
+  {
+    "path": "Tilemaps/Tilemap_BowserCastleBGs.lz5",
+    "offset": 134789,
+    "length": 673,
+    "sha256": "0d80ad265d49975e278b3b7e387a634b19f24ec8c6b3f711a34fe96f98a3c5c2"
+  },
+  {
+    "path": "Tilemaps/Tilemap_VanillaLakeBGs.lz5",
+    "offset": 135462,
+    "length": 294,
+    "sha256": "1d30d108ae319d648021dde18f88e81a0c43d2fd6a1fa68fecd4dd16f542c361"
+  },
+  {
+    "path": "Tilemaps/Tilemap_ChocoIslandBGs.lz5",
+    "offset": 135756,
+    "length": 348,
+    "sha256": "0b2a6bc6be7db58cd07365fd04319591a9cfefcc98d13b113affc41a0d458d16"
+  },
+  {
+    "path": "Tilemaps/Tilemap_KoopaBeachBGs.lz5",
+    "offset": 136104,
+    "length": 326,
+    "sha256": "7e538bb3873940ddf93b7919e4286af41d1c96070d8f58b86286ef2e5e919a9f"
+  },
+  {
+    "path": "TrackData/BattleCourse3.lz5",
+    "offset": 136430,
+    "length": 631,
+    "sha256": "3e643689ba4774805efd5f30bb9bef9ecdb5fad03d646d4267a6b052778cd9ad"
+  },
+  {
+    "path": "TrackData/BattleCourse2.lz5",
+    "offset": 137061,
+    "length": 798,
+    "sha256": "c07f462391e306d2537aa23c9788e25e0743c1180df5b3acafee63f1dbf6e968"
+  },
+  {
+    "path": "TrackData/VanillaLake1.lz5",
+    "offset": 200764,
+    "length": 3907,
+    "sha256": "2318c5e38e751d29a255beb9e49ee696930b454ba5f80072b5b8c8da82bea07f"
+  },
+  {
+    "path": "Palettes/CreditsLetters.lz5",
+    "offset": 204671,
+    "length": 128,
+    "sha256": "a77bdd9016dec9e9a2ddb19ec2532ccc635eb9955cf3c962054ddc6f6ae2b9ca"
+  },
+  {
+    "path": "TrackData/KoopaBeach2.lz5",
+    "offset": 251217,
+    "length": 5504,
+    "sha256": "118b17a59985f31362d6cb22b37f036b3b98dd2a07cb5b39a9455626a39f0dcd"
+  },
+  {
+    "path": "TrackData/RainbowRoad.lz5",
+    "offset": 256721,
+    "length": 1326,
+    "sha256": "45341ec02f6a6602f02643780203587b87048ed55569476fea7dee92acb5bf89"
+  },
+  {
+    "path": "Palettes/MarioCircuitCourse.lz5",
+    "offset": 266623,
+    "length": 404,
+    "sha256": "9090dbc352bf4a84191f46108bf1a194736e012dcf2b25c09a17d3cc40693e58"
+  },
+  {
+    "path": "Palettes/GhostValleyCourse.lz5",
+    "offset": 267027,
+    "length": 433,
+    "sha256": "8e3a63f809d721329555958f2867f92deaaa304715325f762b0a56e88f1b1ed8"
+  },
+  {
+    "path": "Palettes/DonutPlainsCourse.lz5",
+    "offset": 267460,
+    "length": 433,
+    "sha256": "b5a89e3ed78a43fc352de3f08451313a051bb3b4db97f11097b0d3070d1add59"
+  },
+  {
+    "path": "Palettes/BowserCastleCourse.lz5",
+    "offset": 267893,
+    "length": 442,
+    "sha256": "58a583c697fb97507461f6d25b6cd07714b05631449464b42b1600d68e532285"
+  },
+  {
+    "path": "Palettes/VanillaLakeCourse.lz5",
+    "offset": 268335,
+    "length": 401,
+    "sha256": "9e79b606a978717c6271d26596aba125217c84eb37f06335d788287eb6b5de68"
+  },
+  {
+    "path": "Palettes/ChocoIslandCourse.lz5",
+    "offset": 268736,
+    "length": 411,
+    "sha256": "0bbf27bc1ceff51cad440acc10f70121b177f3f4e39494c52e8170c5213e87cf"
+  },
+  {
+    "path": "Palettes/KoopaBeachCourse.lz5",
+    "offset": 269147,
+    "length": 432,
+    "sha256": "d4eb75ab4b9b44e2017661090de4b6dd5dbdb5fea0b17671d0477b3d4cc36f5f"
+  },
+  {
+    "path": "Palettes/RainbowRoadCourse.lz5",
+    "offset": 269579,
+    "length": 422,
+    "sha256": "c850ccf9892fd998a37f625a09bc46a84fbdce533b892fb34e86ce98fa5932c7"
+  },
+  {
+    "path": "TrackData/MarioCircuit2.lz5",
+    "offset": 330821,
+    "length": 2545,
+    "sha256": "0d97f48f9677f2cd7998f3d236115ab9e9497adc9960b153dff385dcc9a4109d"
+  },
+  {
+    "path": "TrackData/MarioCircuit3.lz5",
+    "offset": 425984,
+    "length": 3372,
+    "sha256": "2639bdb104a5a5bb2c0c0829df7d0bf08200a605c9aa6879479cde22c95e369c"
+  },
+  {
+    "path": "TrackData/MarioCircuit1.lz5",
+    "offset": 429356,
+    "length": 2047,
+    "sha256": "ef1a552dc4dc301d78f89575d744e1aa5fb9ac22eab7a7f82e5263d9547d9cfa"
+  },
+  {
+    "path": "TrackData/MarioCircuit4.lz5",
+    "offset": 431403,
+    "length": 3354,
+    "sha256": "3ada99720bd5cdb850cfcad5f90bbe59c54c71fd952246c68d75678b1224caea"
+  },
+  {
+    "path": "TrackData/GhostValley3.lz5",
+    "offset": 434757,
+    "length": 1502,
+    "sha256": "a0a3ee140c0d56166de076c7be4d0d9c08e5bf01343a16d88f96143f14d9cc55"
+  },
+  {
+    "path": "TrackData/DonutPlains2.lz5",
+    "offset": 436259,
+    "length": 5957,
+    "sha256": "7bbcba80da444bc9187a1fc8b627c692a2091dbc7138f9c93945cf0236b75eab"
+  },
+  {
+    "path": "TrackData/VanillaLake2.lz5",
+    "offset": 442216,
+    "length": 4188,
+    "sha256": "941c783e1d46ab731fd2ecbd8bea0e169919c08922e90fa32b77be55f7ea81eb"
+  },
+  {
+    "path": "TrackData/ChocoIsland2.lz5",
+    "offset": 446404,
+    "length": 4586,
+    "sha256": "a5d66cd723d3ee5d123d661bfb78693fed8441bc7611a4c1b31ce72ae48a225c"
+  },
+  {
+    "path": "TrackData/KoopaBeach1.lz5",
+    "offset": 450990,
+    "length": 4484,
+    "sha256": "32090a1fb0b398d797351a231737ab5603eda5308d56fa0a2a020ff99a2a8a09"
+  },
+  {
+    "path": "TrackData/BattleCourse1.lz5",
+    "offset": 455480,
+    "length": 647,
+    "sha256": "c583d9db9eb473ead265c01768c851ea452c73515a30a5144729fc62831e9eca"
+  },
+  {
+    "path": "TrackData/GhostValley1.lz5",
+    "offset": 456127,
+    "length": 1204,
+    "sha256": "6d9ed13d60bde062c8b0b33a123975751959315fd8627a7a56b2caff548e2694"
+  },
+  {
+    "path": "Tilemaps/Tilemap_RainbowRoadBGs.lz5",
+    "offset": 487818,
+    "length": 199,
+    "sha256": "2b579671da62e95b5990347c1f217851e5aa864ca186d26f433a11be832e1fd7"
+  },
+  {
+    "path": "TrackData/ChocoIsland1.lz5",
+    "offset": 488017,
+    "length": 3501,
+    "sha256": "259f0b0dfdac0eac0f702341a4a83bd772e189bac0e9251c06574f2cf2366342"
+  },
+  {
+    "path": "TrackData/DonutPlains3.lz5",
+    "offset": 494187,
+    "length": 5910,
+    "sha256": "4e28f84c9e378084758aefaacbf9d8c4b1f5d1f5e53adb1b5cfb6932b9ffad68"
+  },
+  {
+    "path": "TrackData/DonutPlains1.lz5",
+    "offset": 500097,
+    "length": 5796,
+    "sha256": "9717c1918b99a025370b16ab182ff4959afe68350bec2e7d1dd3d32e75640f72"
+  },
+  {
+    "path": "TrackData/BowserCastle1.lz5",
+    "offset": 505893,
+    "length": 3330,
+    "sha256": "bd649077e65968508303cea7b09cb42ac2dc4f8b2df4923dab956a6bb93d8e3b"
+  },
+  {
+    "path": "TrackData/BowserCastle2.lz5",
+    "offset": 509223,
+    "length": 4312,
+    "sha256": "2ae441a0ca81cec84ed835819774f0ee5c3d0772c06818780dc3c1d85d6dbe1c"
+  },
+  {
+    "path": "TrackData/BowserCastle3.lz5",
+    "offset": 513535,
+    "length": 4642,
+    "sha256": "9fe53d7ccb2fa4e3031245e6a162fc483c55a02b9053cf5ae40b04cd848f189a"
+  },
+  {
+    "path": "TrackData/GhostValley2.lz5",
+    "offset": 518177,
+    "length": 1306,
+    "sha256": "b3ed7287835315a0dbb80ba4c9f8b56c328de50eb5458dce9e7d6958431dbc79"
+  },
+  {
+    "path": "TrackData/BattleCourse4.lz5",
+    "offset": 519483,
+    "length": 1106,
+    "sha256": "75418b35a044fcad276eace9876b33bb7d58076d8c0b3e407c703e58b09cf105"
+  },
+  {
+    "path": "UnsortedData/DATA_85E770.lz5",
+    "offset": 386928,
+    "length": 1669,
+    "sha256": "d2cb366aea4341a8d546319f4f48d1ad175c89d22bb12cbc44e96fa03e5b8d26"
+  },
+  {
+    "path": "UnsortedData/DATA_85EE00.lz5",
+    "offset": 388608,
+    "length": 4477,
+    "sha256": "6a9fa5c3ac2b7aef75a01bfc8cd7c465555b9f3372898b200cdbf7d357ca9a36"
+  },
+  {
+    "path": "UnsortedData/DATA_C61F46.lz5",
+    "offset": 401222,
+    "length": 67,
+    "sha256": "c6546a9e9a879f6cbf16b72c56c355f590612b155c23e768caa173888bd19c59"
+  },
+  {
+    "path": "UnsortedData/TileBehaviorData.lz5",
+    "offset": 523706,
+    "length": 395,
+    "sha256": "9a1c5cdf28bd83b03c91cc26e9f428ae8c2668c1b094abd5b29002efaa43b4ba"
+  }
+]
