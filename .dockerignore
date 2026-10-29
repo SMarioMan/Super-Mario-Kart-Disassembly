@@ -1,0 +1,15 @@
+.git
+**/.git
+**/__pycache__
+**/*.sfc
+**/*.smc
+**/*.srm
+**/*.state
+**/*.brr
+**/*.lz5
+/core
+**/*.log
+**/*.bin
+output
+**/*.exe
+**/*.dll
